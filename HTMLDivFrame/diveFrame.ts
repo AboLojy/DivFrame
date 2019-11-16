@@ -16,9 +16,6 @@ class HTMLDivFrame extends HTMLElement {
             super();
             this.location = this;
         }
-
-    
-    
         replace(url) {
             this.goTo(url);
         }
@@ -41,9 +38,6 @@ class HTMLDivFrame extends HTMLElement {
 
          goTo(url) {
             var req= new XMLHttpRequest();
-
-            
-    
                 req.open('GET', url, false);
                 req.send(null);
                 const el = document.createElement("html");
@@ -143,8 +137,6 @@ class HTMLDivFrame extends HTMLElement {
 
                     }
                 }, 100);
-            
-    
            
         }
     
