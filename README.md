@@ -16,3 +16,7 @@ Calling a dynamic server pages and encapculate its javascript without the need o
 ## Author
 
 * **Amr Reda** - *ISSI inc.* - [github](https://github.com/AboLojy)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
