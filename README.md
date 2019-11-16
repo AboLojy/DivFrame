@@ -3,6 +3,7 @@ Calling a dynamic server pages and encapculate its javascript without the need o
 ## Content
 * Angular 8 directive
 * HTML Custom element (ES6)
+* ASP test page
 
 ### Angular8 use
 ```
