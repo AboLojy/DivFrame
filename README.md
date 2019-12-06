@@ -21,3 +21,5 @@ Calling a dynamic server pages and encapculate its javascript without the need o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+* **Patreon**  - [Patreon](https://www.patreon.com/AmroReda)
