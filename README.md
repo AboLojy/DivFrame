@@ -20,7 +20,7 @@ Calling a dynamic server pages and encapculate its javascript without the need o
 
 ## Author
 
-* **Amr Reda** - *ISSI inc.* - [github](https://github.com/AboLojy)
+* **Amr Reda**  - [github](https://github.com/AboLojy)
 
 ## License
 
