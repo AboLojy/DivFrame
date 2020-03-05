@@ -3,7 +3,13 @@
 
 [![Amr Reda](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/AmroReda)
                                                   
-Calling a dynamic server pages and encapculate its javascript without the need of iframe element
+Embedding a dynamic server web pages can be done by iframe,web component 
+#### iframe 
+hard to control its appearance and not following your globle css, no control on its content
+#### web companents es6
+can't encapsulate it js code 
+## DivFrame 
+encapsulates js code ,follows parent page css,can control its content because its a native ajax calles 
 ## Content
 * Angular 8 directive
 * HTML Custom element (ES6)
